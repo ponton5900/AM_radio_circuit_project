@@ -36,4 +36,7 @@
 ### 部品側
 ![Components view](photos/components_view.jpg)
 
+### 回路図
+![Circuit Diagram](circuit_diagram/am_radio_circuit_diagram.asc)
+
 ## ファイル構成
