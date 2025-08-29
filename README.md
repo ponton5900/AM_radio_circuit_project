@@ -37,6 +37,6 @@
 ![Components view](photos/components_view.jpg)
 
 ### 回路図
-![Circuit Diagram](circuit_diagram/amradio_circuit_diagram.png)
+![Circuit Diagram](circuit_diagram/am_radio_circuit_diagram.png)
 
 ## ファイル構成
