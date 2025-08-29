@@ -25,4 +25,15 @@
 - 試行錯誤や改善の姿勢はソフトウェア開発にも応用可能
 - 現在はプログラミング学習も進めており、今後はソフト開発にも挑戦予定
 
+## 写真
+
+### 基板（真上）
+![Top view](photos/top_view.jpg)
+
+### 基板（正面）
+![Front view](photos/front_view.jpg)
+
+### 部品側
+![Components view](photos/components_view.jpg)
+
 ## ファイル構成
